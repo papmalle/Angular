@@ -1,0 +1,4 @@
+angular-tour-heroes/node_modules/*
+.idea/*
+angular-tour-heroes/*.iml
+back-end-angular/*.iml
