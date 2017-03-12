@@ -14,7 +14,7 @@ import { Component } from '@angular/core';
              <h2>{{selectedHero.name}} details!</h2>
             <div><label>id: </label>{{selectedHero.id}}</div>
             <div>
-                <label>name: </label>
+                <label>name tESTS: </label>
                 <input [(ngModel)]="selectedHero.name" placeholder="name"/>
             </div>  
           </div>
